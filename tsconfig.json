@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "commonjs",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "lib": [
+      "DOM",
+      "DOM.iterable",
+      "DOM.AsyncIterable",
+      "ES2022",
+      "ESNext",
+      "ScriptHost"
+    ]
+  },
+  "include": ["src"],
+
+}
