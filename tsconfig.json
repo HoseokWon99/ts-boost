@@ -12,9 +12,6 @@
     "skipLibCheck": true,
     "outDir": "dist",
     "lib": [
-      "DOM",
-      "DOM.iterable",
-      "DOM.AsyncIterable",
       "ES2022",
       "ESNext",
       "ScriptHost"
